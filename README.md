@@ -12,7 +12,7 @@
   <h1>Zeebeev</h1>
   <p>Coming Soon • Zeebeav.com / Zeebeev.com</p>
   
-  <img src="https://via.placeholder.com/600x300?text=Zeebeev+License+Plate" alt="License Plate">
+  <img src="https://github.com/ZeeBeav/ZeeBeav.github.io/blob/main/ZeeBeavHiResLogo_withfont.png" alt="ZeeBeav">
   
   <p>See the Zeebeev license plate on the streets with .com sticker!</p>
 </body>
