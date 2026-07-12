@@ -12,7 +12,7 @@
   <p>Pronounced Zee-Beev...</p>
   <p></p>• we do Blinky Shows for Tesla vehicles</p>
   
-  <img src="https://zeebeav.github.io/ZeeBeavHiResLogoWB.png" alt="ZeeBeav">
+  <img border="0" src="https://zeebeav.github.io/ZeeBeavHiResLogoWB.png" alt="ZeeBeav">
   
   <p>Have you seen us on the streets with the Zeebeev license plate?</p>
 </body>
