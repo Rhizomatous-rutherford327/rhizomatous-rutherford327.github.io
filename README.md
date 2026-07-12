@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Zeebeev - Official Site</title>
+  <title>Zeebeav/ZeeBeev - Official Site</title>
   <style>
     body { font-family: Arial; text-align: center; padding: 50px; background: #000; color: white; }
     h1 { font-size: 3em; }
@@ -9,11 +9,11 @@
   </style>
 </head>
 <body>
-  <h1>Zeebeev</h1>
-  <p>Coming Soon • Zeebeav.com / Zeebeev.com</p>
+  <h1>Welcome to Zeebeav.com also known as ZeeBeev.com</h1>
+  <p>Pronounced Zee-Beev...• And wwe do Blinky Shows for Tesla vehicles</p>
   
   <img src="https://zeebeav.github.io/ZeeBeavHiResLogo_withfont.png" alt="ZeeBeav">
   
-  <p>See the Zeebeev license plate on the streets with .com sticker!</p>
+  <p>Have you seen us on the streets with the Zeebeev license plate?</p>
 </body>
 </html>
